@@ -1,0 +1,18 @@
+{
+  "watch": [
+    "src/**/*",
+    "public/**/*",
+    "index.html",
+    "vite.config.ts",
+    "tailwind.config.ts",
+    "postcss.config.js"
+  ],
+  "ext": "js,jsx,ts,tsx,css,html,svg,json",
+  "ignore": [
+    "node_modules",
+    "dist",
+    ".git",
+    "*.log"
+  ],
+  "delay": "500"
+} 
